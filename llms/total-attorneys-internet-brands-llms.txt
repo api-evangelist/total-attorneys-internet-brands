@@ -1,0 +1,21 @@
+# Total Attorneys (Internet Brands)
+
+> Total Attorneys is a legal marketing and lead-generation brand owned by Internet Brands. Originally a legal practice-management and client-intake SaaS, the Total Attorneys service was folded into the Martindale-Avvo network, and as of April 1, 2019 its attorney lead-generation offering transitioned to the Martindale-Nolo Pay Per Lead program. The totalattorneys.com site today markets pay-per-lead attorney marketing across practice areas such as bankruptcy, criminal defense, DUI/DWI, divorce, and personal injury. No public developer program or API is currently published.
+
+## Website
+
+- [Total Attorneys](https://www.totalattorneys.com/): Attorney lead-generation marketing site (Martindale-Nolo Pay Per Lead)
+- [Martindale-Avvo LeadDirect](https://www.martindale-avvo.com/services/leaddirect/): Successor lead-generation product
+
+## Legal
+
+- [Terms of Use (Internet Brands)](https://www.internetbrands.com/ibterms): Site terms
+- [Privacy Policy (Internet Brands)](https://www.internetbrands.com/privacy/privacy-main): Privacy policy
+
+## Security
+
+- [security.txt](https://www.totalattorneys.com/.well-known/security.txt): RFC 9116 contact — Internet Brands public Bugcrowd program (https://bugcrowd.com/internetbrands-public)
+
+## APIs
+
+No public APIs are currently published by Total Attorneys.
